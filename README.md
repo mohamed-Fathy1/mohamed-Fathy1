@@ -4,8 +4,8 @@ Hi <img width="40" src="https://user-images.githubusercontent.com/18350557/17630
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamedfathysaied18@gmail.com](mailto:mohamedfathysaied18@gmail.com)
-* 🚀  I'm currently working on [ALX Project](http://github.com/mohamed-Fathy1/Portfolio_project)
-* 🧠  I'm learning React
+* 🚀  I'm currently a Software Engineer @Anyware Sotware
+* 🧠  I'm learning AWS
 
 ---
 
